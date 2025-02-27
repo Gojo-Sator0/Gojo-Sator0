@@ -75,7 +75,7 @@ I am a Python Backend Developer specializing in Django. I build web applications
   <a href="https://www.linkedin.com/in/volodymyr-kulyk-a84233311/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://t.me/vovkul06" target="_blank">
+  <a href="https://t.me/Fusiguro_Toji" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
