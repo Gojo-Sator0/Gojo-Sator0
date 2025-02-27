@@ -14,7 +14,7 @@ I am a Python Backend Developer specializing in Django. I build web applications
 
 <p>
    <a href="https://github.com/Gojo-Sator0?tab=repositories&sort=stargazers">
-     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Gojo-Sator0?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+     <img src="https://custom-icon-badges.demolab.com/github/stars/Gojo-Sator0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&cache=1" alt="Total stars" />
     </a>
 </p>
 
